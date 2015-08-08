@@ -1,0 +1,13 @@
+E:\Projects\REMRTools\REMRTools\bin\Debug\REMRTools.exe.config
+E:\Projects\REMRTools\REMRTools\bin\Debug\REMRTools.exe
+E:\Projects\REMRTools\REMRTools\bin\Debug\REMRTools.pdb
+E:\Projects\REMRTools\REMRTools\obj\Debug\REMRTools.Form1.resources
+E:\Projects\REMRTools\REMRTools\obj\Debug\REMRTools.Properties.Resources.resources
+E:\Projects\REMRTools\REMRTools\obj\Debug\REMRTools.csproj.GenerateResource.Cache
+E:\Projects\REMRTools\REMRTools\obj\Debug\REMRTools.exe
+E:\Projects\REMRTools\REMRTools\obj\Debug\REMRTools.pdb
+E:\Projects\REMRTools\REMRTools\bin\Debug\DocumentFormat.OpenXml.dll
+E:\Projects\REMRTools\REMRTools\obj\Debug\REMRTools.csprojResolveAssemblyReference.cache
+E:\Projects\REMRTools\REMRTools\bin\Debug\HtmlAgilityPack.dll
+E:\Projects\REMRTools\REMRTools\bin\Debug\HtmlAgilityPack.pdb
+E:\Projects\REMRTools\REMRTools\bin\Debug\HtmlAgilityPack.xml
